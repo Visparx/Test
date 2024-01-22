@@ -2960,3 +2960,5 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.22-17.27.56:214][601]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.01.22-17.28.01:165][975]LogSlate: Window 'Content Browser 2' being destroyed
 [2024.01.22-17.28.01:169][975]LogSlate: Window 'Content Browser 2' being destroyed
+[2024.01.22-17.29.54:195][660]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.01.22-17.29.54:195][660]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
