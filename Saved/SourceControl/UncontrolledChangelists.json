@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Game Projects/Test/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"E:/Game Projects/Test/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Game Projects/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Game Projects/Test/Content/ThirdPerson/Input/Actions/IA_GrabElement.uasset",
+				"E:/Game Projects/Test/Content/Blueprints/BP_ElementSource.uasset",
+				"E:/Game Projects/Test/Content/Blueprints/BP_Spell-ElementGrab.uasset",
+				"E:/Game Projects/Test/Content/Blueprints/BP_Spell-ElementCast.uasset",
+				"E:/Game Projects/Test/Content/Blueprints/BP_Door.uasset",
+				"E:/Game Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/OS/DPVBE6JLZK0PUANY1V4BXQ.uasset",
+				"E:/Game Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/VD/EI01NLUJJHKSDI5FIJDHIA.uasset",
+				"E:/Game Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IE/R72J07L0DGRE4Z659U31UF.uasset",
+				"E:/Game Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DC/ZRX4ALP0KYSCAWCTO72XJM.uasset",
+				"E:/Game Projects/Test/Content/Blueprints/BP_Door_Child.uasset",
+				"E:/Game Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"E:/Game Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6F/PUK0RBL0RB2EX28FML9TXZ.uasset",
+				"E:/Game Projects/Test/Content/Blueprints/BP_Button.uasset",
+				"E:/Game Projects/Test/Content/Blueprints/BP_Bullet.uasset",
+				"E:/Game Projects/Test/Content/ThirdPerson/Input/Actions/IA_Fire.uasset",
+				"E:/Game Projects/Test/Content/SideScroller/BP_PlayerController.uasset",
+				"E:/Game Projects/Test/Content/SideScroller/BP_ThirdPersonCharacter.uasset",
+				"E:/Game Projects/Test/Content/SideScroller/BP_GameMode.uasset",
+				"E:/Game Projects/Test/Content/SideScroller/BP_GameInstance.uasset",
+				"E:/Game Projects/Test/Content/ThirdPerson/Input/Actions/IA_Spellcast.uasset"
+			]
+		}
+	]
+}
